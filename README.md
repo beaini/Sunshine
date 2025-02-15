@@ -13,7 +13,7 @@
   </a>
   <a href="https://hub.docker.com/r/lizardbyte/sunshine">
     <img src="https://img.shields.io/docker/pulls/lizardbyte/sunshine.svg?style=for-the-badge&logo=docker" alt="Docker">
-  </a>
+  </a> 
   <a href="https://github.com/LizardByte/Sunshine/pkgs/container/sunshine">
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fipitio.github.io%2Fbackage%2FLizardByte%2FSunshine%2Fsunshine.json&query=%24.downloads&label=ghcr%20pulls&style=for-the-badge&logo=github" alt="GHCR">
   </a>
